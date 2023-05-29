@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Snake Game</title>
+  <style>
+    /* Add CSS styles here */
+  </style>
+</head>
+<body>
+  <h1>Snake Game</h1>
+  
+  <div id="game-board">
+    <!-- Game board grid will be dynamically generated here -->
+  </div>
+
+  <div id="score">
+    Score: <span id="score-value">0</span>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
